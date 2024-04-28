@@ -1,0 +1,12 @@
+{
+  "$schema": "https://json.schemastore.org/package.json",
+  "name": "dividi-et-impera",
+  "type": "module",
+  "workspaces": [],
+  "devDependencies": {
+    "@biomejs/biome": "1.7.1",
+    "@types/bun": "^1.1.0",
+    "turbo": "^1.13.3",
+    "typescript": "^5.4.5"
+  }
+}
